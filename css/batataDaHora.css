@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    padding-top: 5%;
+    width: 100%;
+    height: 100%;
+}
+
+#tabela {
+    width: 50%;
+    padding-left: 5%;
+}
+
+#tabelaMeusDados{
+    width: 100%;
+    padding-left: 70%;
+}
+
+#meusDados{
+    padding-left: 70%;
+    font-family: Monaco;
+    color: black;
+}
+
+#excluir{
+    padding-left: 70%;
+}
+
+#criarConta {
+    padding-left: 5%;
+    font-family: Monaco;
+}
+
+#formulario {
+    padding-top: 50px;
+    width: 100%;
+    height: 100%;
+    background-image: url("http://localhost/BatataDaHora/imagens/batataForm.jpg");
+    background-size: cover;
+}
+
+#pedidos{
+    padding-top: 50px;
+    width: 100%;
+    height: 100%;
+    background-image: url("http://localhost/BatataDaHora/imagens/batataUsuario.jpg");
+    background-size: cover;
+}
+
+#geral{
+    padding-top: 50px;
+    width: 100%;
+    height: 100%;
+    background-image: url("http://localhost/BatataDaHora/imagens/potato.jpg");
+    background-size: cover;
+}
+
+#index {
+    padding-top: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url("http://localhost/BatataDaHora/imagens/batataLogin.jpg");
+    background-size: cover;
+}
+
+#tabelaLogin {
+    text-align: center;
+    width: 50%;
+}
+
+#divBemVindo {
+    text-align: center;
+}
+
+#loginGeral {
+    text-align: center;
+}
+
+#bemVindo{
+    font-size: 2cm;
+    color: #f8d568;
+}
+
+#msg{
+    color: white;
+}
+
+#cadastrese{
+    color: #ff4500;
+}

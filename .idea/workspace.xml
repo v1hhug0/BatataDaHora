@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9dbd2d70-4ab7-4f23-8a4e-1b8489600cc9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - batata_da_hora@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - batata_da_hora@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - batata_da_hora@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="batata_da_hora: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - batata_da_hora@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="batata_da_hora: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="usuario: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1U4Y6BmS4aWuRWs5AEL4AOIwNqt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\BatataDaHora\imagens" />
+      <recent name="C:\wamp64\www\BatataDaHora" />
+      <recent name="C:\wamp64\www\BatataDaHora\imagens\" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dbd2d70-4ab7-4f23-8a4e-1b8489600cc9" name="Default Changelist" comment="" />
+      <created>1574617156424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574617156424</updated>
+      <workItem from="1574617157723" duration="1772000" />
+      <workItem from="1574619025524" duration="19895000" />
+      <workItem from="1574712805085" duration="202000" />
+      <workItem from="1574723875757" duration="664000" />
+      <workItem from="1574724551074" duration="537000" />
+      <workItem from="1574725118062" duration="50000" />
+      <workItem from="1574725189061" duration="142000" />
+      <workItem from="1574725685158" duration="2282000" />
+      <workItem from="1574731450309" duration="42000" />
+      <workItem from="1574731692060" duration="947000" />
+      <workItem from="1574776135098" duration="471000" />
+      <workItem from="1574776670652" duration="1831000" />
+      <workItem from="1574779544479" duration="7167000" />
+      <workItem from="1574902670398" duration="5627000" />
+      <workItem from="1574948250851" duration="1069000" />
+      <workItem from="1574978848525" duration="6738000" />
+      <workItem from="1575052183706" duration="6143000" />
+      <workItem from="1575142976481" duration="10010000" />
+      <workItem from="1575224742102" duration="16240000" />
+      <workItem from="1575305198081" duration="4406000" />
+      <workItem from="1575328927667" duration="5000" />
+      <workItem from="1575331546321" duration="2629000" />
+      <workItem from="1575334375461" duration="1719000" />
+      <workItem from="1575336454374" duration="1169000" />
+      <workItem from="1575379933729" duration="19418000" />
+      <workItem from="1575418241577" duration="218000" />
+      <workItem from="1575418537127" duration="1154000" />
+      <workItem from="1575461090984" duration="17899000" />
+      <workItem from="1575488055722" duration="11157000" />
+      <workItem from="1575508534562" duration="1239000" />
+      <workItem from="1581462355927" duration="393000" />
+      <workItem from="1581463277443" duration="54000" />
+      <workItem from="1581463352625" duration="29000" />
+      <workItem from="1581463393938" duration="42000" />
+      <workItem from="1581966270065" duration="116000" />
+      <workItem from="1581966550058" duration="33000" />
+      <workItem from="1582047555957" duration="20000" />
+      <workItem from="1585658379611" duration="282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581463324156">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="143" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1581463324156" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581966574040">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581966574040" />
+  </component>
+</project>
